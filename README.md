@@ -10,7 +10,10 @@ Install it:
 
 ## Usage
 
-See `cloudscale_api_scraper --help`
+Scrape the API docs and generate YAML definitions:
+`cloudscale_api_scraper scrape`
+
+See `cloudscale_api_scraper --help` for more options.
 
 ## Development
 

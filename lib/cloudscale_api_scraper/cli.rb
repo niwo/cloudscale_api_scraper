@@ -18,8 +18,6 @@ module CloudscaleApiScraper
     end
     map %w(-v --version) => :version
 
-    default_task :scrape
-
     desc "scrape", "Pull API definitions from the CloudScale docs"
     option :api_url,
       default: CloudscaleApiScraper::Scraper::DEFAULT_URL,
