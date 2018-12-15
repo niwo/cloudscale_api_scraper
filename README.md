@@ -1,6 +1,6 @@
 # CloudscaleApiScraper
 
-Scrapes the CloudScale API HTML documentation and converts it to machine readable YAML.
+Scrapes the [CloudScale](https://www.cloudscale.ch/en/api/v1) API HTML documentation and converts it to machine readable YAML.
 
 ## Installation
 
